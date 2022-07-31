@@ -1,3 +1,4 @@
-# TP11 - Express- Patrones de Diseño MVC.
-- Fecha de inicio:  25 de Julio.
-- Fecha de entrega:  1 de Agosto.
+# TP12 - Express- Vistas Dinámicas EJS.
+- Fecha de inicio:  29 de Julio.
+- Fecha de entrega:  5 de Agosto.
+
